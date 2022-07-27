@@ -1,0 +1,112 @@
+.textslide {
+    margin-top: -24px;
+    background-color: aliceblue;
+    width: 100%;
+    height: 530px;
+    
+}
+.textslide h1{
+    width: 300px;
+    padding: 70px;
+    font-family: 'Prototype';
+    text-align: center;
+    margin-left: 450px;
+}
+.textslide p{
+    margin-top: -80px;
+    text-align: center;
+    font-size: 15px;
+    font-family: fantasy;
+    color: #FF6D00;
+}
+.slide{
+    margin-top: 40px;
+}
+.slide ul{
+    margin-top: 100px;
+    max-width:100%;
+    overflow-x:auto;}
+.slide li{
+    float:center;}
+.slide ul, .slide li {
+    list-style:none;
+    display:inline-block;
+    white-space:nowrap;
+    margin:0;
+    padding:0;}
+.slide img {
+    width:100%;
+    height:260px;}
+
+.button {
+        height: 50px;
+        margin-top: 430px;
+        margin-left: -100px;
+        padding: 2px 25px;
+        font-size: 17px;
+        cursor: pointer;
+        text-decoration: none;
+        color: #fff;
+        background-color: #607D8B;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;} 
+.button:hover {background-color: #546E7A}
+.button:active {
+        background-color: #455A64;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);}
+.button1 {
+        margin-top: 35px;
+        height: 50px;
+        margin-left: -10px;
+        padding: 2px 25px;
+        font-size: 17px;
+        cursor: pointer;
+        text-decoration: none;
+        color: #fff;
+        background-color: #607D8B;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;}
+.button1:hover {background-color: #546E7A}
+.button1:active {
+        background-color: #455A64;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);}
+
+
+.buttons {
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+ }
+ .buttons1 {
+    margin-left: 132px;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .buttons1:hover {
+    background: radial-gradient(circle at top left, #fdbb2d, #07a3b2);
+    color: white;
+  }
+ .buttons2 {
+    margin-left: 132px;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .buttons2:hover {
+    background-image: url(/bahan/bg2.jpg);
+    color: white;
+  }
